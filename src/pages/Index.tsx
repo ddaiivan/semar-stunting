@@ -51,7 +51,7 @@ const Index = () => {
               >
                 <div className="absolute inset-0 bg-semar-green rounded-full opacity-10 transform scale-110 blur-xl"></div>
                 <img
-                  src="/public/stunting.jpg"
+                  src="/stunting.jpg"
                   alt="Anak sehat"
                   className="relative rounded-lg shadow-xl max-w-full h-auto object-cover"
                 />
@@ -227,7 +227,7 @@ const Index = () => {
               </div>
               <div className="relative h-64 lg:h-auto">
                 <img
-                  src="/public/stunting2.jpeg"
+                  src="/stunting2.jpeg"
                   alt="Ibu dan anak"
                   className="absolute inset-0 h-full w-full object-cover"
                 />
