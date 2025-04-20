@@ -52,6 +52,16 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				semar: {
+					green: '#4CAF50',
+					'light-green': '#8BC34A',
+					blue: '#2196F3',
+					'light-blue': '#03A9F4',
+					orange: '#FF9800',
+					'light-orange': '#FFC107',
+					purple: '#9C27B0',
+					red: '#F44336',
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
